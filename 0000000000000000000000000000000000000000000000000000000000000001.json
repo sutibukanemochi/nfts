@@ -1,7 +1,7 @@
 {
   "name": "Ethicoin",
-  "description": "Ethicoin is a gold-backed cryptocurrency, a BEP-20 token built on the Binance Smart Chain (BSC). It represents a decentralized, transparent, and eco-friendly approach to digital finance, backed by real gold reserves. The ticker symbol for Ethicoin is ETHIC+. Learn more at [Ethicoin.org](https://www.ethicoin.org/).",
-  "image": "https://gateway.pinata.cloud/ipfs/bafkreiard66v6vyclqjyk4lmi5cq74yw44aqteuocokxyvpunoeycwd72e/Ethicoin.png",
+  "description": "Ethicoin is a gold-backed cryptocurrency, a BEP-20 token built on the Binance Smart Chain (BSC). It represents a decentralized, transparent, and eco-friendly approach to digital finance, backed by real gold reserves.",
+  "image": "https://raw.githubusercontent.com/sutibukanemochi/nfts/main/Ethicoin.png",
   "attributes": [
     { "trait_type": "Background", "value": "Golden" },
     { "trait_type": "Currency", "value": "Gold-backed Cryptocurrency (ETHIC+)" },
