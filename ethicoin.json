@@ -1,0 +1,13 @@
+{
+  "name": "Ethicoin",
+  "description": "Ethicoin is an ethical cryptocurrency, a BEP-20 token built on the Binance Smart Chain (BSC). It represents a decentralized, transparent, and eco-friendly approach to digital finance. The ticker symbol for Ethicoin is ETHIC+. Learn more at [Ethicoin.org](https://www.ethicoin.org/).",
+  "image": "https://raw.githubusercontent.com/sutibukanemochi/nfts/main/Ethicoin.png",
+  "attributes": [
+    { "trait_type": "Background", "value": "Golden" },
+    { "trait_type": "Currency", "value": "Ethereum" },
+    { "trait_type": "Blockchain", "value": "Binance Smart Chain (BSC)" },
+    { "trait_type": "Token Standard", "value": "BEP-20" },
+    { "trait_type": "Ticker Symbol", "value": "ETHIC+" },
+    { "trait_type": "Rarity", "value": "Epic" }
+  ]
+}
